@@ -9,4 +9,9 @@ public class HelloGit {
         System.out.println("12345678");
         System.out.println("123456789");
     }
+
+    public void test(){
+        int a = 1;
+        int b = 2;
+    }
 }
